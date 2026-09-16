@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F9F7F4",
+  "secondaryColor": "#EEF1EC",
+  "backgroundColor": "#F9F7F4",
+  "textColor": "#3D3D3D",
+  "accentColor": "#D4AF37",
+  "fontHeading": "Cormorant Garamond",
+  "fontBody": "Inter",
+  "borderRadius": "0.5rem",
+  "logoText": "Artisan Collective",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-AUN2AL/logo.png",
+  "tone": "premium"
+}
